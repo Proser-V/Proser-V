@@ -52,18 +52,37 @@ I enjoy low-level programming, building tools from scratch, and understanding ho
   />
 </p>
 
+## 🎓 Certifications
+
+<p>
+   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/b02c541b6f44452291ec1705aebe762c">
+    <img src="https://img.shields.io/badge/IBM-Introduction%20to%20Open%20Source-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Certificate Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/784e2fb2-e8c3-46bf-9922-72908af869bc/public_url">
+    <img src="https://img.shields.io/badge/IBM-Agile%20Explorer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Agile Explorer Badge"/>
+  </a>
+   <a href="https://courses.skillsbuild.skillsnetwork.site/certificates/1ec17638ebc94df4ae18551cf14ab297">
+    <img src="https://img.shields.io/badge/IBM-SQL%20and%20Relational%20Databases%20101-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SQL Certificate Badge"/>
+  </a>
+  <a href="https://www.credly.com/badges/29f48afe-2594-4534-ad0f-ce419ac0f4af/public_url">
+    <img src="https://img.shields.io/badge/Project%20Management%20-%20IBM?style=for-the-badge&logo=Project%20Management&label=IBM&labelColor=dark%20grey&color=052FAD" alt="IBM Project Management"/>
+  </a>
+</p>
+
+---
+
 ## 📂 Projects
 
-- **Simple Shell:** Unix-like shell built in C using `fork`, `execve`, `wait`, etc.
-- **Printf Clone:** Reimplementation of the C `printf` function
-- **HBnB project:** AirBnB-like project, documentation (High-level Package, Classes and Sequences diagrams), Business Logic and API REST, Database, Simple Web Client. (in developpement)
+- [**Simple Shell:**](https://github.com/Proser-V/holbertonschool-simple_shell) Unix-like shell built in C using `fork`, `execve`, `wait`, etc.
+- [**Printf Clone:**](https://github.com/Proser-V/holbertonschool-printf) Reimplementation of the C `printf` function
+- [**HBnB project:**](https://github.com/Proser-V/holbertonschool-hbnb) AirBnB-like project, documentation (High-level Package, Classes and Sequences diagrams), Business Logic and API REST, Database, Simple Web Client.
 - [+ more learning projects...](https://github.com/Proser-V/holbertonschool-higher_level_programming)
 
 ---
 
 ## 🚀 Looking for
 
-An **apprenticeship** (alternance) in backend, systems, or tooling development  
+An **apprenticeship** (alternance) as a fullstack, IA or 3D developper  
 > Eager to learn, contribute, and grow in a real-world dev environment.
 
 ---
