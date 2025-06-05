@@ -67,8 +67,6 @@ I enjoy low-level programming, building tools from scratch, and understanding ho
   />
 </p>
 
-[![Valentin's github trophy](https://github-profile-trophy.vercel.app/?username=Proser-V&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📂 Projects
 
 - **Simple Shell:** Unix-like shell built in C using `fork`, `execve`, `wait`, etc.
